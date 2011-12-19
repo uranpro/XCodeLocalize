@@ -1,0 +1,8 @@
+XCodeLocalize
+====
+
+XCode project localization:
+Search for localized strings and update Localizable.strings
+
+Usage:
+xcodelocalize.py /path/to/project 'NSLocalizedString\(@"%key_is_here%"'
